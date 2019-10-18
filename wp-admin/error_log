@@ -1,0 +1,2 @@
+[13-Jul-2018 07:50:35 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[27-Mar-2019 05:34:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/templatesripe/public_html/diviU/construction/wp-content/plugins/duplicator/ctrls/ctrl.tools.php on line 95
